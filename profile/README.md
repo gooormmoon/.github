@@ -4,10 +4,10 @@
 
 <table>
  <tr>
-    <td align="center"><a href="https://github.com/hwangheetae"><img src="https://avatars.githubusercontent.com/u/62371559?v=4" width="100px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/nnevia"><img src="https://avatars.githubusercontent.com/u/129982345?v=4" width="100px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/jinjuseo"><img src="https://avatars.githubusercontent.com/u/45915619?v=4" width="100px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/YeJinHee"><img src="https://avatars.githubusercontent.com/u/110113020?v=4" width="100px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/hwangheetae"><img src="https://github.com/gooormmoon/.github/assets/72500673/2e3734f3-18e2-426d-abe4-c2a92f0edb1a" width="100px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/nnevia"><img src="https://github.com/gooormmoon/.github/assets/72500673/c8f16646-64fa-4ff3-831d-102778e42e87" width="100px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/jinjuseo"><img src="https://github.com/gooormmoon/.github/assets/72500673/867bfa53-5623-4455-bb29-7ec9ab0e5d81" width="100px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/YeJinHee"><img src="https://github.com/gooormmoon/.github/assets/72500673/38d44f6d-f244-4eb4-b95e-110915bbce1d" width="100px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/hwangheetae"><b>황희태</b></a></td>
@@ -21,11 +21,11 @@
 
 <table>
  <tr>
-    <td align="center"><a href="https://github.com/sshinylee"><img src="https://avatars.githubusercontent.com/u/70005453?v=4" width="100px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/hanni66"><img src="https://avatars.githubusercontent.com/u/72500673?v=4" width="100px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/Berygna"><img src="https://avatars.githubusercontent.com/u/18259766?v=4" width="100px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/immyeong"><img src="https://avatars.githubusercontent.com/u/62759873?v=4" width="100px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/cherry-go-round"><img src="https://avatars.githubusercontent.com/u/126336224?v=4" width="100px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/sshinylee"><img src="https://github.com/gooormmoon/.github/assets/72500673/34448b81-aae7-422f-b596-4d029526394a" width="100px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/hanni66"><img src="https://github.com/gooormmoon/.github/assets/72500673/858e04f3-b46e-4540-9b58-907fb5cfdb5d" width="100px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/Berygna"><img src="https://github.com/gooormmoon/.github/assets/72500673/d2adc47f-90ce-4105-9524-d1b6f0a6d1fe" width="100px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/immyeong"><img src="https://github.com/gooormmoon/.github/assets/72500673/b39314a9-c668-4c79-836f-aa5722c7ce0f" width="100px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/cherry-go-round"><img src="https://github.com/gooormmoon/.github/assets/72500673/c633dfb7-a91e-48d2-9473-5c4586a53828" width="100px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/sshinylee"><b>이주원</b></a></td>
